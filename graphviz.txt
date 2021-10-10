@@ -1,0 +1,12 @@
+digraph g{
+    node [shape=block]
+
+    init -> sendByte
+    sendByte -> cols
+    clear -> cols
+    commit -> sendByte
+    drawText -> setColumn
+    setColumn -> setPixel
+    setPixel -> cols
+    animation -> setPixel
+}

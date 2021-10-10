@@ -1,0 +1,13 @@
+MyBemfa.h由本人基于巴法云开发并开源的源代码tm_bemfa_led.ino开发而成
+
+tm_bemfa_led.ino发布在： https://www.cnblogs.com/bemfa/p/14440060.html?ivk_sa=1024320u
+
+以下是原作者留下的信息：
+
+/*
+ * 智能语言控制控制，支持天猫、小爱、小度、google Assistent同时控制
+ * 2021-08-12
+ * QQ交流群：566565915
+ * 官网https://bemfa.com 
+ */
+
